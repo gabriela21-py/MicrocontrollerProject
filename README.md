@@ -80,6 +80,20 @@ This project is a **medium-complexity electronic monitoring system** based on a 
 
 ---
 
+## PCB Manufacturing Sponsor
+
+This PCB was kindly sponsored by **PCBWay**, who provided fabrication support for this project.
+
+I would like to thank PCBWay for:
+- High PCB manufacturing quality  
+- Fast order processing & delivery  
+- Professional communication and support  
+
+More about their services:  
+➡️https://m.pcbway.com/
+
+Pictures of the manufactured board can be found in the **PCBWay** folder.
+
 ## Summary
 This project demonstrates the design, implementation, and layout of a medium-complexity electronic board capable of **monitoring environmental parameters**, **displaying data**, and **interacting with users** through LEDs, buzzer, and buttons.
 
