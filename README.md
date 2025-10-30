@@ -92,7 +92,13 @@ I would like to thank PCBWay for:
 More about their services:  
 ➡️https://m.pcbway.com/
 
-Pictures of the manufactured board can be found in the **PCBWay** folder.
+## 🖼️ PCB Preview
+
+### 🔹 Top View
+![PCB Top View](./PCBWay/pcb_top.jpg)
+
+### 🔹 Bottom View
+![PCB Bottom View](./PCBWay/pcb_bottom.jpg)
 
 ## Summary
 This project demonstrates the design, implementation, and layout of a medium-complexity electronic board capable of **monitoring environmental parameters**, **displaying data**, and **interacting with users** through LEDs, buzzer, and buttons.
