@@ -95,10 +95,10 @@ More about their services:
 ## 🖼️ PCB Preview
 
 ### 🔹 Top View
-![PCB Top View](./PCBWay/pcb_top.jpg)
+![PCB Top View](./PCBWay/1.jpg)
 
 ### 🔹 Bottom View
-![PCB Bottom View](./PCBWay/pcb_bottom.jpg)
+![PCB Bottom View](./PCBWay/2.jpg)
 
 ## Summary
 This project demonstrates the design, implementation, and layout of a medium-complexity electronic board capable of **monitoring environmental parameters**, **displaying data**, and **interacting with users** through LEDs, buzzer, and buttons.
